@@ -1,7 +1,7 @@
 ---
 works_index: true
-hero_text: Hello,<br><br>I’m <strong>Prajjwal</strong>. I study Computer Science and
-  Mathematics at New York University Abu Dhabi
+hero_text: Hello, I’m <strong>Prajjwal</strong>. <br><br>I study Computer Science
+  and Mathematics at New York University Abu Dhabi
 title: Hero
 
 ---
