@@ -10,13 +10,6 @@ sections:
   templates:
   - settings
 - type: directory
-  path: portfolio/works
-  label: Works
-  create: all
-  match: "**/*"
-  templates:
-  - works
-- type: directory
   path: portfolio/journal
   label: Journal
   create: all
